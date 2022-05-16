@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zlee113
 - I'm a college student currently at Virginia Tech for Computer Engineering
-- I'm interested in Web/App development currently but have a decent background in programming different things
+- I'm interested in Web/App development currently but have a decent background in programming
 - Contact: mrzclee@gmail.com
 
 <!---
